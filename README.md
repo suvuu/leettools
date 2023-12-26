@@ -3,4 +3,4 @@ security research toolset containing an ip_scanner, aswell as a random name/emai
 
 running main.py in terminal will start the app
 
-requires : nmap
+requires : nmap, linux, python
